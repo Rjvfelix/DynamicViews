@@ -135,7 +135,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         });
 
         layoutList.addView(cricketerView);
-
     }
 
     private void removeView(View view){
